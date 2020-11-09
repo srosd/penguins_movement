@@ -13,7 +13,7 @@ window.onload = () => {
         height: 42,
         frameX: 0,
         frameY: 2,
-        speed: 4,
+        speed: 9,
         moving: false
     
     }; 
